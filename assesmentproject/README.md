@@ -1,16 +1,4 @@
-# assesmentproject
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![imageone](https://github.com/user-attachments/assets/0b31c9ca-c91a-485e-855d-2908f6884e0f)
+![imagetwo](https://github.com/user-attachments/assets/cd440d71-2a2a-41f6-bac6-97b1cc2305fb)
+![imagethree](https://github.com/user-attachments/assets/c5192977-5f22-46fb-b902-8e7341502db6)
+updated my read me 
